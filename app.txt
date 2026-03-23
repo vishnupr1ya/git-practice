@@ -1,3 +1,6 @@
 Initial version
 Feature branch update
 updating to practice merge conflict
+I am editing this to practice merge, push and pull
+Here is another change for practice purpose
+Changes for practice purpose
