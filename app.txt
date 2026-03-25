@@ -7,3 +7,5 @@ Changes for practice purpose
 I am adding this to test git pull
 This is edit for practice
 I am Vishnupriya from remote
+I am adding this line to test merge conflicts
+I am adding this line to test git pull and merge
