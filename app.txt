@@ -19,3 +19,4 @@ I want to test git push
 I want to test git pull with doing changes in my local
 ["Hello" "Extra" "World"]
 This is to practice the reset command
+This is to practice git reset-hard command
